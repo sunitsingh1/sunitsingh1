@@ -32,8 +32,10 @@
  - 🔭 I am a Full Stack Developer and an all time self motivated learner, majorly worked with Flask, Django and ReactJS. 
 <!--  - You can checkout few of mine insightful posts here on <a href="https://www.linkedin.com/in/mnamegaurav/detail/recent-activity/shares/">LinkedIn</a> -->
  - 🌱 I can cook Web Applications in Python/Django/Flask + React.
- - 👯 I’m in love with Linux, using it on my regular system for almost 3 years BTW I love Arch Linux.
- - 😄 Currently I am working in Rain Autonomics.
+ - You can connect with me on <a href="https://www.linkedin.com/in/sunit-kumar-singh-a3231a14b/">LinkedIn</a> and visit my website at https://sunitsingh1.github.io/
+      I also love to share my knowledge and experiences!
+ - 👯 I’m in love with Linux and Windows.
+ - 😄 Currently I am working in Rain Autonomics as a Software Developement Engineer(SDE).
 
 
 <br />
